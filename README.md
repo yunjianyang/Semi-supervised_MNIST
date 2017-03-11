@@ -6,5 +6,5 @@
 3. Several common techniques are used in this task.
 
 ## How to run the code
-1. Make sure you have installed pytorch. [pytorch](http://pytorch.org)
+1. Make sure you have installed [pytorch](http://pytorch.org).
 2. Make sure you have downloaded every file.
